@@ -1,4 +1,4 @@
-namespace Course.Services
+namespace Interfaces.Services
 {
     interface IOnlinePaymentService
     {

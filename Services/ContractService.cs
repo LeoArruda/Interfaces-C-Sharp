@@ -1,7 +1,7 @@
 ﻿using System;
-using Course.Entities;
+using Interfaces.Entities;
 
-namespace Course.Services
+namespace Interfaces.Services
 {
     class ContractService
     {

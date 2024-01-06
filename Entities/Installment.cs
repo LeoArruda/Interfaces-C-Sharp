@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Course.Entities
+namespace Interfaces.Entities
 {
     class Installment
     {

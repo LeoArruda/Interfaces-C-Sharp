@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Course.Entities
+namespace Interfaces.Entities
 {
     class Contract
     {
